@@ -32,7 +32,8 @@ The dashboard was designed to:
 
 ## Dashboard Preview
 
-(Add screenshot here)
+<img width="1318" height="748" alt="AdobeExpressPhotos_bdcf19bd73224be9a8074e23fd3de77f_CopyEdited" src="https://github.com/user-attachments/assets/cec2cd51-2381-4e12-9fbf-18ead3b53031" />
+
 
 ## Key Insights
 
