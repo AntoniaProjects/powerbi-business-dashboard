@@ -4,7 +4,7 @@
 
 This project analyzes survey responses from data professionals across different countries and job roles using Microsoft Power BI.
 
-The goal was to identify trends related to salaries, programming languages, career entry difficulty, and overall job satisfaction through an interactive dashboard.
+The goal was to identify key trends and patterns related to salaries, programming languages, career entry difficulty, and overall job satisfaction through an interactive dashboard.
 
 ## Tools Used
 
