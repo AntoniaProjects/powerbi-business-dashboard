@@ -26,19 +26,19 @@ The goal was to identify trends related to salaries, programming languages, care
 
 ## Key Insights
 
-## Key Insights
+* The survey contains **630 respondents**, with the **United States representing the largest country group (261 respondents; 41.4%)**. The respondent pool is also strongly concentrated by job role, with **Data Analysts accounting for 381 respondents (60.5%)**, followed by Student/Looking/None (90; 14.3%), Data Engineers (38; 6.0%), and Data Scientists (25; 4.0%).
 
-* The survey comprises 630 respondents and is strongly concentrated in both geography and job role: 261 respondents (41.4%) are based in the United States, while Data Analysts account for 381 respondents (60.5%) of the sample. The interactive dashboard allows these dominant groups to be separated from the overall sample and compared with other countries and roles.
+* **Python was the most frequently selected programming language**, reported by **420 respondents (66.7%)**, compared with **101 respondents (16.0%) for R**. The interactive job-role breakdown also reveals differences within the sample: Python was selected by **80.0% of Data Scientists** and **66.9% of Data Analysts**.
 
-* Country selection reveals substantial differences in reported salary ranges. Among U.S. respondents, 62.1% reported a yearly salary of at least $66k, compared with only 6.8% of respondents from India. This difference becomes directly visible when selecting individual countries in the dashboard.
+* The dashboard shows a clear difference between satisfaction with **salary and work-life balance**. Across the sample, average salary satisfaction was **4.27/10**, while average work-life balance satisfaction was **5.74/10**, a difference of **1.47 points**. Selecting individual countries or job roles allows this pattern to be examined for different groups.
 
-* Satisfaction also varies across countries. U.S. respondents reported an average salary satisfaction of 5.00/10 and work-life balance satisfaction of 6.38/10, compared with 3.51/10 and 4.79/10 among respondents from India. Across the full sample, work-life balance satisfaction (5.74/10) was 1.47 points higher than salary satisfaction (4.27/10).
+* Country selection reveals substantial differences in the reported salary distributions. Among respondents in the **United States, 62.1% reported salaries of at least $66k**, compared with **6.8% of respondents in India**. Average salary satisfaction was also higher among U.S. respondents (**5.00/10**) than among respondents in India (**3.51/10**), while work-life balance satisfaction was **6.38/10** in the U.S. and **4.79/10** in India.
 
-* Selecting different job roles reveals differences in both programming-language preferences and job satisfaction. Python was selected by 80.0% of Data Scientists, compared with 66.9% of Data Analysts. Data Scientists also reported higher average salary satisfaction (5.68/10) than Data Analysts (4.49/10), while their work-life balance ratings were very similar (6.12 vs. 6.00).
+* The job-role breakdown shows differences in both salary and satisfaction. Using the dashboard's derived **Average Salary** field, Data Scientists had an average of approximately **$93.8k**, compared with approximately **$55.3k for Data Analysts**. Data Scientists also reported higher average salary satisfaction (**5.68/10 vs. 4.49/10**), while their work-life balance ratings were similar (**6.12/10 vs. 6.00/10**).
 
-* Responses about entering the data field were mixed. Overall, 42.7% of respondents described the experience as neither easy nor difficult, while 31.7% described it as difficult or very difficult and 25.6% as easy or very easy. The interactive country filter also reveals differences between countries; for example, among the 40 respondents from the United Kingdom, 42.5% reported that entering data was easy or very easy, compared with 32.5% who reported that it was difficult or very difficult.
+* Respondents' experiences of entering the data field were mixed. **42.7%** reported that breaking into data was **neither easy nor difficult**, while **31.7%** described it as **difficult or very difficult** and **25.6%** as **easy or very easy**. The interactive country filter allows these distributions to be explored across different geographic groups.
 
-* The dashboard therefore goes beyond displaying overall averages: selecting a country or job role dynamically changes the salary, programming-language, satisfaction, and entry-difficulty views, making it possible to explore how these characteristics differ across professional groups and geographic locations.
+* The dashboard is designed to explore these relationships interactively: selecting a **country, job role, or programming language** dynamically filters the other visuals, allowing users to examine how **salary, technical preferences, satisfaction, and perceived barriers to entering the field** differ across the sample rather than relying only on overall averages.
 
 
 ## Skills Demonstrated
