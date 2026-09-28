@@ -26,19 +26,20 @@ The goal was to identify trends related to salaries, programming languages, care
 
 ## Key Insights
 
-* The majority of survey respondents came from the United States, making it the most represented country in the dataset.
+## Key Insights
 
-* Data Scientists reported the highest average salaries among the surveyed job roles, followed by Data Architects and Data Engineers.
+* The survey comprises 630 respondents and is strongly concentrated in both geography and job role: 261 respondents (41.4%) are based in the United States, while Data Analysts account for 381 respondents (60.5%) of the sample. The interactive dashboard allows these dominant groups to be separated from the overall sample and compared with other countries and roles.
 
-* Python was by far the most popular programming language across all job categories, significantly outperforming R, Java, JavaScript, and C/C++.
+* Country selection reveals substantial differences in reported salary ranges. Among U.S. respondents, 62.1% reported a yearly salary of at least $66k, compared with only 6.8% of respondents from India. This difference becomes directly visible when selecting individual countries in the dashboard.
 
-* More than 40% of respondents indicated that breaking into the data industry was neither easy nor difficult, while approximately one quarter described it as difficult.
+* Satisfaction also varies across countries. U.S. respondents reported an average salary satisfaction of 5.00/10 and work-life balance satisfaction of 6.38/10, compared with 3.51/10 and 4.79/10 among respondents from India. Across the full sample, work-life balance satisfaction (5.74/10) was 1.47 points higher than salary satisfaction (4.27/10).
 
-* Work-life balance satisfaction (5.75/10) was noticeably higher than salary satisfaction (4.27/10), suggesting that respondents were generally more satisfied with their work-life balance than with their compensation.
+* Selecting different job roles reveals differences in both programming-language preferences and job satisfaction. Python was selected by 80.0% of Data Scientists, compared with 66.9% of Data Analysts. Data Scientists also reported higher average salary satisfaction (5.68/10) than Data Analysts (4.49/10), while their work-life balance ratings were very similar (6.12 vs. 6.00).
 
-* The average age of survey participants was approximately 30 years.
+* Responses about entering the data field were mixed. Overall, 42.7% of respondents described the experience as neither easy nor difficult, while 31.7% described it as difficult or very difficult and 25.6% as easy or very easy. The interactive country filter also reveals differences between countries; for example, among the 40 respondents from the United Kingdom, 42.5% reported that entering data was easy or very easy, compared with 32.5% who reported that it was difficult or very difficult.
 
-* The survey included 628 respondents from multiple countries and data-related professions.
+* The dashboard therefore goes beyond displaying overall averages: selecting a country or job role dynamically changes the salary, programming-language, satisfaction, and entry-difficulty views, making it possible to explore how these characteristics differ across professional groups and geographic locations.
+
 
 ## Skills Demonstrated
 
