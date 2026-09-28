@@ -21,7 +21,7 @@ The goal was to identify trends related to salaries, programming languages, care
 
 ## Dashboard Preview
 
-<img width="1318" height="748" alt="AdobeExpressPhotos_d7075e5a4c0645ad8c55f77d92731653_CopyEdited" src="https://github.com/user-attachments/assets/5d88bfa9-f43d-4a8b-bb6b-a0e447eba9f6" />
+<img width="1297" height="737" alt="screenshot_data_survey" src="https://github.com/user-attachments/assets/27f30ff2-be72-4b91-be05-5cf4a9f277d6" />
 
 
 ## Key Insights
